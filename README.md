@@ -6,7 +6,7 @@ This project demonstrates object-oriented programming and state machine manageme
 ## Features
 
 - **Gameplay Mechanics**: Simple and engaging gameplay with multiple game modes.
-- **Graphics**: Dynamic obstacles like traffic and rivers.
+- **Graphics**: Using Console Graphic.
 - **Scripting**: Save and load system for player progress.
 
 ## Installation
