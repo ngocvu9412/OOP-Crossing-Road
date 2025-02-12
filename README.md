@@ -16,4 +16,4 @@ To run this project locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/ngocvu9412/.git](https://github.com/ngocvu9412/OOP-Crossing-Road.git
+   git clone https://github.com/ngocvu9412/OOP-Crossing-Road.git
